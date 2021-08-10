@@ -11,9 +11,8 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| **Education** | 2017. 3 ~ 2022. 2 | Computer Software | **Induk University** |
+| **Company** |   |   |   |
 
 <!--
 **kjh1305/kjh1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
