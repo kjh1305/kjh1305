@@ -6,16 +6,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ### Hi there 👋
-### 안녕하세요, 김준형입니다! 👋
 ### **Backend Developer**
-
-### "목표를 이루는 끈기 있는 개발자"
-
-**배움은 끝이 없다.**
-
-제 **꿈**은 포기 하지 않는 **열정**과 **배워서** 성장하고 다른 사람에게 **가르침**을 줄 수 있는 개발자가 되는 것이 꿈입니다.
-
-저는 개발자가 왜 되고 싶었는가? 라고 물어본다면 **계속 배울 수 있는 것**이 제일 뿌듯하고 **행복한 이유**라고 말할 것 입니다.
 
 <!--
 **kjh1305/kjh1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
