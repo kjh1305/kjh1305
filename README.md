@@ -9,6 +9,8 @@
 ### Hi there 👋
 ### **Backend Developer**
 
+## Record
+
 | **Type** | **Date** | **Contents** | **Organization** |
 |---|---|---|---|
 | **Education** | 2017. 3 ~ 2022. 2 | Computer Software | **Induk University** |
