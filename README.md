@@ -3,6 +3,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kjh1305)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 ### Hi there 👋
 ### 안녕하세요, 김준형입니다! 👋
 ### **Backend Developer**
