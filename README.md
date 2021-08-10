@@ -4,12 +4,16 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kjh1305)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 
 ### **Backend Developer**
 
 
 🛠 Tech Stack 🛠
+Techs that I've used at least once.
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
+🌟 Me 🌟
+
 ## Record
 
 | **Type** | **Date** | **Contents** | **Organization** |
