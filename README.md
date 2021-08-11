@@ -7,41 +7,27 @@
 | **Education** | 2017. 3 ~ 2022. 2 | Computer Software | **Induk University** |
 | **Company** | 2021. 8 ~  | Seoul  | **Last1mile**  |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1305&langs_count=10&layout=compact&theme=dark)](https://github.com/kjh1305/kjh1305)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kjh1305&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosyq1305)](https://solved.ac/cosyq1305/)
-</p>
-
-<p align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjh1305&count_bg=%2379C83D&title_bg=%23555555&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=cosyq1305)](https://solved.ac/cosyq1305)
-</p>
+<div align="center">
 
 
-### **Backend Developer**
+  <h1> 🛠 Tech Stack 🛠 </h1>
 
 
-🛠 Tech Stack 🛠
-
-
-Techs that I've used at least once.
+  <p> Techs that I've used at least once. </p>
 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
@@ -54,12 +40,42 @@ Techs that I've used at least once.
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
-🌟 Me 🌟
+</div>
+
+<div align="center">
+
+  <h1> 🌟 Me 🌟 </h1>
+
 <a href="https://cokes.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://delirious-honey-9fa.notion.site/cad191b1e23b4b7fb58d76c437a6a991" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:cosyq1305@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:cosyq1305@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+</div>
+
+<div align="center>
+            
+<h1>etc.</h1>
+            
+</div>
+
+<div align="center">
+               
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kjh1305&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+                
+</div>                   
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosyq1305)](https://solved.ac/cosyq1305/)
+  
+                   
+</div>  
+  
+<div align="center">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjh1305&count_bg=%2379C83D&title_bg=%23555555&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=cosyq1305)](https://solved.ac/cosyq1305)
+  
+</div>
 
 
 <!--
