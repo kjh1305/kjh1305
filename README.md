@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JunHyeongKim%20&fontSize=75&animation=fadeIn)
 
+## Record
+
+| **Type** | **Date** | **Contents** | **Organization** |
+|---|---|---|---|
+| **Education** | 2017. 3 ~ 2022. 2 | Computer Software | **Induk University** |
+| **Company** | 2021. 8 ~  | Seoul  | **Last1mile**  |
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1305&langs_count=10&layout=compact&theme=dark)](https://github.com/kjh1305/kjh1305)
-
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjh1305&count_bg=%2379C83D&title_bg=%23555555&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -50,12 +55,7 @@ Techs that I've used at least once.
 <a href="mailto:cosyq1305@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:cosyq1305@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-## Record
 
-| **Type** | **Date** | **Contents** | **Organization** |
-|---|---|---|---|
-| **Education** | 2017. 3 ~ 2022. 2 | Computer Software | **Induk University** |
-| **Company** |   |   |   |
 
 <!--
 **kjh1305/kjh1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
