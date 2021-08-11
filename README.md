@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JunHyeongKim%20&fontSize=75&animation=fadeIn)
+         
+<div align="center">
 
 ## Record
 
@@ -7,6 +9,8 @@
 | **Education** | 2017. 3 ~ 2022. 2 | Computer Software | **Induk University** |
 | **Company** | 2021. 8 ~  | Seoul  | **Last1mile**  |
 
+</div>  
+  
 <div align="center">
 
 
@@ -53,20 +57,17 @@
 
 </div>
 
-<div align="center>
-            
-<h1>etc.</h1>
-            
-</div>
-
 <div align="center">
+  
+  <h1> ⌨️ etc. ⌨️ </h1>
                
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kjh1305&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
                 
 </div>                   
     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosyq1305)](https://solved.ac/cosyq1305/)
+<div align="center">
   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosyq1305)](https://solved.ac/cosyq1305/)
                    
 </div>  
   
