@@ -51,8 +51,8 @@ Techs that I've used at least once.
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
 🌟 Me 🌟
-<a href="https://cokes.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://delirious-honey-9fa.notion.site/cad191b1e23b4b7fb58d76c437a6a991" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://cokes.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://delirious-honey-9fa.notion.site/cad191b1e23b4b7fb58d76c437a6a991" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:cosyq1305@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:cosyq1305@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
