@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JunHyeongKim%20&fontSize=75&animation=fadeIn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosyq1305)
 
-출처: https://dalseobi.tistory.com/27 [달에 앉아있는 서비]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1305&langs_count=10&layout=compact&theme=dark)](https://github.com/kjh1305/kjh1305)
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjh1305&count_bg=%2379C83D&title_bg=%23555555&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
