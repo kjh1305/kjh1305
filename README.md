@@ -7,7 +7,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |---|---|---|---|
 | **Education** | 2017. 3 ~ 2022. 2 | Computer Software | **Induk University** |
-| **Company** | 2021. 8 ~  | developer  | **Last1mile**  |
+| **Company** | 2021. 8 ~  | Developer  | **Last1mile**  |
 
 </div>  
   
