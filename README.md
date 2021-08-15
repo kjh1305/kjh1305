@@ -78,7 +78,7 @@
   
 </div>
 
-쉬는날 8월 15
+쉬는날 8월 16
 <!--
 **kjh1305/kjh1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
