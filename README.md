@@ -77,7 +77,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=cosyq1305)](https://solved.ac/cosyq1305)
   
 </div>
-21
+22
 <!--
 **kjh1305/kjh1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
