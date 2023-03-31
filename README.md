@@ -17,7 +17,7 @@
                    
 </div>  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=cosyq1305&show_icons=true">
   </div>  
 <div align="center">
   
