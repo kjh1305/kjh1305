@@ -17,7 +17,7 @@
                    
 </div>  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosyq1305@naver.com">
+         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosyq1305@naver.com&show_icons=true)
   </div>  
 <div align="center">
   
