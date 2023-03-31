@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Cokes%20&fontSize=75&animation=fadeIn)
-         
+
 <div align="center">
 
 ## Record
