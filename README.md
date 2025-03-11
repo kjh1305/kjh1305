@@ -142,8 +142,8 @@ GUI 클라이언트 프로그램 개발 및 관리자 API 개발
 
 감사합니다! 😊
 
-<div align="center">
 ## Record
+<div align="center">
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |---|---|---|---|
