@@ -1,5 +1,3 @@
-
-<div align="center">
 안녕하세요, 김준형입니다! 👋
 Backend Developer | 목표를 이루며 성장하고 싶은 개발자
 
@@ -129,7 +127,7 @@ GUI 클라이언트 프로그램 개발 및 관리자 API 개발
 
 감사합니다! 😊
 
-
+<div align="center">
 ## Record
 
 | **Type** | **Date** | **Contents** | **Organization** |
